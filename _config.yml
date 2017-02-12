@@ -71,8 +71,8 @@ share_hackernews: false
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: 'Nowszy'
+    older: 'Starszy'
   share_buttons:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
@@ -96,11 +96,11 @@ text:
     subject:  'New submission!'
     submit:   'Say Hello'
     ajax:
-      sending:  'sending..'
-      sent:     'Message sent!'
-      error:    'Error!'
+      sending:  'wysyłanie..'
+      sent:     'Wiadomość wysłana!'
+      error:    'Błąd!'
   thanks: 'Thanks for contacting us. We will reply as soon as possible.'
-  og_locale: 'en_US'
+  og_locale: 'pl_PL'
 
 # Build settings
 markdown:     kramdown
