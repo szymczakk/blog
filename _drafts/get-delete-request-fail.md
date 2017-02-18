@@ -2,27 +2,25 @@
 published: false
 tags: dsp2017
 ---
-Hej,
+Hej, 
 
-dzisiaj w pracy, zauważyłem iż jeden z programistów zrobił bardzo dziwną rzecz, a mianowicie
+dzisiaj w pracy, zauważyłem iż jeden z programistów robił bardzo dziwną rzecz. 
 
 {% highlight C# %}
 [HttpGet]
-public ActionResponse Delete(int id){
-    service.Delete(id);
-    return Get();
+public ActionResposne Deltete(int id){
+   service.Delete(id);
+   return Get();
 }
 {% endhighlight %}
 
-niby... wszystko było by ok, ale z takim zapytaniem jest jeden problem.
-
-Jeśli nie schowamy takiej akcji za jakimś "logowaniem" to roboty google (i nie tylko) wyczyszczą nam całą bazę.
-
+Niestety takie zapytanie jest bardzo niebezpieczną sprawą, (zwłaszcza w sytuacji, gdy taka akcja nie jest schowana za jakimś "logowaniem"). 
 Dlaczego?
 
-Działają one na takiej zasadzie, że przeszukują wszystkie możliwe linki, a każdy jeden GET starają się odwiedzić.
+Roboty biegające po sieci (między innymi gógla) klikają sobie we wszyskie znalezione GET'owe linki, a co za tym idzie? W momencie gdy taki robot namierzy nam taki link (dostępnym bez logowania) wykasuje nam całą bazę nie patrząc na to co się dzieje.
 
-Pamiętajcie że każdy GET powininen prowadzić tylko i wyłącznie do akcji które nie wprowadzają żadnych zmian na serwerze.
-ŻADNYCH.
+GET nie powinien prowadzić do żadnych zmian po stronie serwera.
+
+Pamiętajcie o tym :)
 
 k.
