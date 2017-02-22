@@ -1,6 +1,10 @@
 ---
+layout: post
+title: Get to delete request fail
+date: 2017-02-22 22:00:00
 published: false
 tags: dsp2017
+categories: jekyll dsp2017
 ---
 Hej, 
 
