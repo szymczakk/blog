@@ -3,7 +3,7 @@ title:       Krzysiek Szymczak blog
 email:       krzysztof.piotr.szymczak@gmail.com
 author:      John Otander
 description: "This is my blog, and this is what I do."
-baseurl:     "/"
+baseurl:     ""
 url:         "http://blog.rakaz.pl/"
 date_format: "%b %-d, %Y"
 
