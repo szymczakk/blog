@@ -95,7 +95,7 @@ text:
     minute_read:    'około minut czytania'
     related_posts:  'Related Posts'
   index:
-    coming_soon: 'Coming soon...'
+    coming_soon: 'Już wkrótce...'
   contact:
     email:    'Email Address'
     content:  'What would you like to say?'
