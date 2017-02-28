@@ -2,7 +2,7 @@
 layout: post
 title: Daj się poznać czas zacząć!
 date: 01-03-2017
-published: false
+published: true
 tags: dsp2017
 categories: jekyll dsp2017
 ---
