@@ -4,7 +4,7 @@ title: Get'owy delete
 date: 2017-02-22 22:00:00
 published: true
 tags: dsp2017
-categories: jekyll dsp2017
+categories: posts
 ---
 #### Hej, 
 

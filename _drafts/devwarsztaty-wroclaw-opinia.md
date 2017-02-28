@@ -2,7 +2,7 @@
 layout: post
 title: Moja subiektywna opinia o DevWarsztatach
 tags: devwarsztaty
-categories: jekyll opinia
+categories: posts opinion
 ---
 
 #### Hej!

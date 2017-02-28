@@ -2,7 +2,7 @@
 layout: post
 title: Mój pierwszy (i pewnie jedyny) dodatek do VS Code
 tags: vs-code project
-categories: jekyll projekty
+categories: posts projects
 ---
 
 #### Hej!

@@ -3,8 +3,8 @@ layout: post
 title: Medytacja? Jakaś wschodnia ściema...
 date: 23-02-2017
 published: true
-tags: dsp2017
-categories: it relax
+tags: dsp2017 it relax
+categories: posts
 ---
 
 #### Hej!
