@@ -4,7 +4,7 @@ title: Taka tam rozkmina o życiu i śmierci...
 date: 28-02-2017
 published: true
 tags: idea dsp2017
-categories: ideas
+categories: posts ideas
 ---
 #### HEJ!
 

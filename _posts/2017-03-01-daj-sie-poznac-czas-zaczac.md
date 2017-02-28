@@ -4,7 +4,7 @@ title: Daj się poznać czas zacząć!
 date: 01-03-2017
 published: true
 tags: dsp2017
-categories: jekyll dsp2017
+categories: posts
 ---
 
 #### HEJ!
