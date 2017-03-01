@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Daj się poznać czas zacząć!
+summary: Pierwszy post dotyczący Daj się poznać. Opisuję w nim pokrótce na czym polega projekt który zamierzam realizować.
 date: 01-03-2017
 published: true
 tags: dsp2017

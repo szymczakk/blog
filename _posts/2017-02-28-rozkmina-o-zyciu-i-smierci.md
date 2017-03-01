@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Taka tam rozkmina o życiu i śmierci...
+summary: Post dotyczący rozważań na temat realizacji projektów open-source, nauczania oraz pracy "za darmo".
 date: 28-02-2017
 published: true
 tags: idea dsp2017
