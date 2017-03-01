@@ -5,6 +5,7 @@ permalink: /dsp2017feed/
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+    <atom:link href="http://blog.rakaz.pl/dsp2017feed/" rel="self" type="application/rss+xml" />
     <title>DSP2017 Posts</title>
     <description>Posty konkursowe Daj się poznac 2017</description>
     <link>{{site.baseurl | prepend: site.url}}</link>
