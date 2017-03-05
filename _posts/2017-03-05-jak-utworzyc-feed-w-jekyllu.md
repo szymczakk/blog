@@ -2,7 +2,7 @@
 layout: post
 title: Jak utworzyc RSS feed do jekyll'a.
 date: 03-03-2017
-published: false
+published: true
 tags: dsp2017 tutorial feed rss
 categories: posts tutorial
 ---
