@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dlaczego wybrałem Jekyll'a zamast wordpress'a (czyli o tym jak narzekam na swoją niewiedzę)
-date: 04-03-2017
+date: 08-03-2017
 published: true
 tags: dsp2017 jekyll opinion
 categories: posts 
@@ -58,7 +58,8 @@ przestawiasz **GitHub Pages** z
  None
 {% endhighlight %}
 
-na 
+na
+
 {% highlight text %}
  master branch
 {% endhighlight %}
@@ -75,7 +76,7 @@ Teraz w celu opublikowania jakiejkolwiek strony klonujemy utworzone przez nas re
   _posts
 {% endhighlight %}
 
-dodajesz tam plik w formacie 
+dodajesz tam plik o nazwie 
 
 {% highlight text %}
  ROK-MIESIAC-DZIEN-NAZWA-ODDZIELANA-KRESKAMI.md
