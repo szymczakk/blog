@@ -2,7 +2,7 @@
 layout: post
 title: Moje pierwsze spotkanie ze skillami alexy
 summary: Wpis o tym jak to po raz pierwszy stworzyłem własny skill dla Alexy. Oczywiście był on całkowicie oparty na tutorialu... Ale radocha i tak była spora.
-published: false
+published: true
 tags: dps2017 alexa aws skill
 categories: posts 
 --- 
