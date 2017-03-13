@@ -26,8 +26,8 @@ Tak więc pewien (w jego mniemaniu) uzdolniony programista postanowił ukoić b�
 I ta opowieść będzie o jego długiej i krętej drodze, jak z walcowatego, świecącego, wścibskiego pudełka zrobić GM'a!
 
 <br>
-A przy okazji okazało się, że w [miejscu gdzie tenże programista spędza swoje 8-9 godzin dziennie]() pragną zorganizaować hackaton z udziałem "walca" w roli głównej. Więc doskonale się składa, bo nasz główny bohater spróbuje upiec dwie pieczenie na jednym ogniu :stuck_out_tongue_winking_eye:
+A przy okazji okazało się, że w [miejscu gdzie tenże programista spędza swoje 8-9 godzin dziennie](https://www.pgs-soft.com/) pragną zorganizaować hackaton z udziałem "walca" w roli głównej. Więc doskonale się składa, bo nasz główny bohater spróbuje upiec dwie pieczenie na jednym ogniu :stuck_out_tongue_winking_eye:
 
-do zobaczenia niebawem i POWODZENIA WSZYSTKIM W KONKURSIE! Pamiętajcie, że samo zgłoszenie się pisanie bloga sprawia że już wygraliśmy!
+do zobaczenia niebawem i POWODZENIA WSZYSTKIM W KONKURSIE! Pamiętajcie, że samo zgłoszenie się oraz pisanie bloga sprawia że już wygraliśmy!
 
 k. 
