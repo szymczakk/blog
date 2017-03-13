@@ -11,6 +11,8 @@ categories: posts
 
 Właśnie siedzę i piszę sobie pierwszego skilla dla alexy! Tak tak wiem, niby nic wielkiego, odpalasz tutorial ([ja jadę na tym](https://github.com/bignerdranch/developing-alexa-skills-solutions)) czytasz i kopy-pejścisz. Ale wiecie jaka to frajda? Stoi sobie to malutkie pudełko za mną, pod telewizorem, ja tu klepię kod i co jakiś czas mówię 
 
+<!--more-->
+
 > Alexa ask greeter to say hello
 
 A ona co? a ona mi odpowiada :smile: ALE CZAD! 
