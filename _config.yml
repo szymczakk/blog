@@ -120,6 +120,7 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-twitter-plugin
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
 excerpt_separator: <!--more-->
