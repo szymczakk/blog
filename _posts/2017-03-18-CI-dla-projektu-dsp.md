@@ -13,6 +13,8 @@ Jak to zapewne każdy kto rozpoczyna nowy projekt na daj się poznać, zamierzam
 
 <!--more-->
 
+_(mały edit na samym końcu)_
+
 ## CI
 
 CI - continous integration, w języku lokalnych ludzi "ciągła integracja" (ale tragiczne tłumaczenie). Narzędzie (element procesu, łotewa) służące ciągłemu pobieraniu naszego kodu, budowaniu go i odpalaniu testów w celu sprawdzenia czy to co pchamy do repo ma jako taki sens. Z popularnych aplikacji/serwisów do CI można wyróżnić [TeamCity](https://www.jetbrains.com/teamcity/) (używam w pracy), [Jenkinsa](https://jenkins.io/) i [Travisa](https://travis-ci.org/). Dlaczego akurat te 'wyróżniłem'? Bo z nimi miałem jako taką styczność (o innych na tym etapie pracy nie słyszałem, nie czytałem, nie szukałem).
@@ -88,3 +90,9 @@ Kolejnym krokiem w konfiguracji środowiska będzie konfiguracja CD (continous d
 Dzięki za poświęcony mi czas!
 
 k.
+
+### Edit
+
+Dobra, wymiękłem... Jednak tak się zafiksowałem na punkcie Travis'a, że zaraz po napisaniu tego posta zabrałem się za próbę zbudowania apki w Travisie i się udało. Dzięki poprawionej wersji dokumentacji, podałem odpowiednią wersję .Net Core SDK jako parametr do builda i wszystko na zielono.
+
+Sory AppVeyor, ale zostanę przy Travisie :blink:
