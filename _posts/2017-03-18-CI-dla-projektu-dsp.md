@@ -95,4 +95,4 @@ k.
 
 Dobra, wymiękłem... Jednak tak się zafiksowałem na punkcie Travis'a, że zaraz po napisaniu tego posta zabrałem się za próbę zbudowania apki w Travisie i się udało. Dzięki poprawionej wersji dokumentacji, podałem odpowiednią wersję .Net Core SDK jako parametr do builda i wszystko na zielono.
 
-Sory AppVeyor, ale zostanę przy Travisie :blink:
+Sory AppVeyor, ale zostanę przy Travisie :wink:
