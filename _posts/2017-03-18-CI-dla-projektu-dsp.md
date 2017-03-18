@@ -44,7 +44,7 @@ Po zarejestrowaniu się na stronce (ja zrobiłem to przy pomocy mojego konta na 
 
 Pierwszym ekranem który nam się ukaże jest miejsce gdzie można wybrać sobie źródełko naszej aplikacji. U mnie, dzięki rejestracji przez GH wszystko miałem już zaczytane
 
-<img src="{{site.baserl}}/mages/appveyor/e1.png">
+<img src="{{site.baserl}}/images/appveyor/e1.png">
 
 Wybieramy projekt ktory chcemy budować i przechodzimy dalej.
 
