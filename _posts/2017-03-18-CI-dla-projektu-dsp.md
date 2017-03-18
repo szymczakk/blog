@@ -44,29 +44,29 @@ Po zarejestrowaniu się na stronce (ja zrobiłem to przy pomocy mojego konta na 
 
 Pierwszym ekranem który nam się ukaże jest miejsce gdzie można wybrać sobie źródełko naszej aplikacji. U mnie, dzięki rejestracji przez GH wszystko miałem już zaczytane
 
-<img src="images/appveyor/e1.png">
+<img src="{{site.baserl}}/mages/appveyor/e1.png">
 
 Wybieramy projekt ktory chcemy budować i przechodzimy dalej.
 
 Kolejnym krokiem jest zakładka SETTINGS i tu zaczyna się nasza mała magia. Z najważniejszych ustawień uważam że należy wyklikać sobie środowisko które będzie nam budowało naszą aplikację
 
-<img src="images/appveyor/e2.png">
+<img src="{{site.baserl}}/images/appveyor/e2.png">
 
 oraz zmienne środowiskowe wykorzystywane przez apkę (klucze i inne takie).
 
 Kolejnym elementem który ustawiłem w tej konfiguracji była zakładka "Build" gdzie wpisałem swoje mega-turbo zaawansowane skrypty które AppVeyor ma odpalać
 
-<img src="images/appveyor/e3.png">
+<img src="{{site.baserl}}/images/appveyor/e3.png">
 
 następnie podobnie należy zrobić w zakładce test, tylko podać skrypt do odpalania testów
 
-<img src="images/appveyor/e4.png">
+<img src="{{site.baserl}}/images/appveyor/e4.png">
 
 i na tę chwilę to jest wszystko co ustawiłem w swoim CI aby pobierało i budowało moją aplikację. 
 
 Ostatnią ciekawą rzeczą (o której wpomniałem wcześniej) jest fakt, że po takim "wyklikaniu" sobie wszystkich ustawień, można wejść w zakładkę "Export YAML" i pobrać sobie cały pliczek konfiguracyjny
 
-<img src="images/appveyor/e5.png">
+<img src="{{site.baserl}}/images/appveyor/e5.png">
 
 Pisałem wcześniej iż uważam że takie wyklikanie sobie jest "po części" dobre. Moim zdaniem jest tak dlatego, że jeśli wszystko wyklikamy sobie w środowisku, to nie mam szans przejrzeć zmian, które zostały wprowadzone w konfiguracji naszego Continous Integration. A tak, dzięki trzymaniu tego w GIT'cie mamy szansę zawsze wrócić do poprzedniej konfigracji, lub sprawdzić kto co zmienił i dowiedzieć się dlaczego. To jest właśnie powód, dla którego nie napisałem tutaj o tym, że w pierwszej zakładce ustawień "General" jest flaga, która pozwala całkowicie zignorować plik appveyor.yaml i oprzec całą konfigurację tylko o panel web'owy. Ale NIE POLECAM tego robić.
 
@@ -76,7 +76,7 @@ Po takiej konfiguracji, każdy mój commit do repo ktore podpiąłem pod to CI u
 
 Jak wspomniałem wcześniej, miałem problem z konfiguracją Travis'a pod preview3. Dlaczego? Bo w dokumentacji, były wyraźnie wyszczególnione wersje które działają w Travisie (i preview3 tam nie było). Napisałem do nich na twitterze i następnego dnia dostałem odpowiedź
 
-<img src="images/appveyor/e6.png">
+<img src="{{site.baserl}}/images/appveyor/e6.png">
 
 wbijam na podrzuconego przez nich [pull-requesta](https://github.com/travis-ci/travis-ci/issues/7255), patrzę, a tam poprawki w dokumentacji dotyczące .NET Core. I wyraźnie napisane, że nie to, iż Travis wspiera tylko te dwie wersje wypisane w dokumentacji. Jedyne co, to trzeba podać wersję pod którą chce się budować. Czyli należy wejść na stronę .net core, sprwadzić sobie wersję, wpisać ją... i ponoć wszystko bangla. Niestety nie mam już na razie czasu aby to sprawdzić.
 
