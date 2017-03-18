@@ -11,7 +11,7 @@ categories: posts
 
 Jak to zapewne każdy kto rozpoczyna nowy projekt na daj się poznać, zamierzam napisać o tym jak to sobie skonfigurowałem środowisko do pracy. Żeby żyło się lepiej... :wink:
 
-<!---more--->
+<!--more-->
 
 ## CI
 
@@ -76,9 +76,9 @@ Po takiej konfiguracji, każdy mój commit do repo ktore podpiąłem pod to CI u
 
 Jak wspomniałem wcześniej, miałem problem z konfiguracją Travis'a pod preview3. Dlaczego? Bo w dokumentacji, były wyraźnie wyszczególnione wersje które działają w Travisie (i preview3 tam nie było). Napisałem do nich na twitterze i następnego dnia dostałem odpowiedź
 
-{% twitter https://twitter.com/travisci/status/842383431141056518 %}
+<img src="images/appveyor/e6.png">
 
-wbijam na podrzuconego przez nich pull-requesta, patrzę, a tam poprawki w dokumentacji dotyczące .NET Core. I wyraźnie napisane, że nie to, iż Travis wspiera tylko te dwie wersje wypisane w dokumentacji. Jedyne co, to trzeba podać wersję pod którą chce się budować. Czyli należy wejść na stronę .net core, sprwadzić sobie wersję, wpisać ją... i ponoć wszystko bangla. Niestety nie mam już na razie czasu aby to sprawdzić.
+wbijam na podrzuconego przez nich [pull-requesta](https://github.com/travis-ci/travis-ci/issues/7255), patrzę, a tam poprawki w dokumentacji dotyczące .NET Core. I wyraźnie napisane, że nie to, iż Travis wspiera tylko te dwie wersje wypisane w dokumentacji. Jedyne co, to trzeba podać wersję pod którą chce się budować. Czyli należy wejść na stronę .net core, sprwadzić sobie wersję, wpisać ją... i ponoć wszystko bangla. Niestety nie mam już na razie czasu aby to sprawdzić.
 
 
 ### Następny krok
