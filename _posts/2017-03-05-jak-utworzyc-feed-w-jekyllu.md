@@ -2,6 +2,7 @@
 layout: post
 title: Jak utworzyc RSS feed do jekyll'a.
 date: 03-03-2017
+summary: Wpis pokazujący w jaki sposób można utowrzyć sobie własny feed rss'owy w dość prosty sposób przy użyciu Liquida.
 published: true
 tags: dsp2017 tutorial feed rss
 categories: posts tutorial
