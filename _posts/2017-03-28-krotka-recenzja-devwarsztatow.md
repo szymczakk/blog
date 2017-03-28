@@ -10,7 +10,7 @@ categories: posts event
 ### Hej!!
 
 Dnia 25.03.2017 we wrocławskiej siedzibie [PGS-Soft](https://www.pgs-soft.com/) odbyło się kolejne spotkanie z cyklu [DevWarsztaty](http://devwarsztaty.pl/). 
-
+<!--more-->
 Tym razem tematem całodziennej nauki były podstawy C# oraz .NET Core. Niestety nie udało mi się uczestniczyć w tym wydarzeniu ale od jednej z uczestniczek ([Anny Mikołajczyk](https://www.linkedin.com/in/anna-miko%C5%82ajczyk-aa799158/) - testerki automatycznej z [PGS-Soft](https://www.pgs-soft.com/)) dostałem krótką recenzję tegoż spotkania.
 
 
