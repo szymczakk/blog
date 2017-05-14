@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Medytacja? Jakaś wschodnia ściema...
-date: 23-02-2017
 published: true
 tags: dsp2017 it relax
 categories: posts
@@ -27,7 +26,7 @@ Z tego co się orientowałem, wystarczy po prostu znaleźć ustronne miejsce, us
 ### Jak ja to robię?
 1. Sprawdam w naszej wewnętrzej aplikacji która z biznesowych salek w biurze jest wolna
 2. Gdy jest ich więcej, wybieram taką która będzie wolna jeszcze przez jakiś czas, ale _protip_ nie za długo, bo wtedy na pewno ktoś to zauwazy i ją zajmie na jakieś spotkanie :wink:
-3. Ulatniam się zza biurka do salki z pkt 2, jakbym zwyczajnie szedł po kawę lub na posiedzenie
+3. Ulatniam się zza biurka do salki z pkt 2
 4. Gaszę światło, zamykam oczy, zakładam słuchawki (tu kolejność nie jest obowiązkowa) i odpalam sobie Simple habbit
 5. Po 5ciu minutach wracam do pokoju i zadziwiam współpracowników energią i zapałem do walki o release w piątek o 16 :smile:
 
