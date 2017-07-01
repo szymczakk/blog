@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Docker, czyli o tym jak udaje zachować mi się porządek na kompuerze, pracując przy różnych projektach w różnch technologiach
+title: Docker, czyli o tym jak udaje mi się zachować porządek na kompuerze, pracując przy różnych projektach w różnch technologiach
 summary: Post popisujący w jaki sposób udaje mi się prawie wszystkie wymagane frameworki, biblioteki, serwery etc uruchomić w dockerze, a po skończonym projekcie usunąć z komputera, czyli pozostawić natywną maszynę (albo bardziej system) bez uszczerbku śmieci które wiele z tych usług pozostawia.
 published: true
 tags: docker
@@ -9,7 +9,7 @@ categories: posts ideas
 
 ### Hej!!
 
-Dzisiaj naszła mnie taka myśl, że podzielę się z wami swoim sposobem na to, aby pracując z różnymi frameworkami, serwerami, środowiskami uruchomieniowymi, nadal mieć w natywnym systemie porządek. Przez to określenie mam na myśli stan, w którym po zakończonym projekcie nie muszę spędzić 4/5/6/123h w "Dodaj/usuń programy" aby usunąć wszystkie śmieci zainstalowane przez system (jeśli kiedykolwiek próbowałeś/próbowałaś odinstalować MS-SQL'a z systemu, tak kompletnie, to wiesz o czym mówię :wink: )
+Dzisiaj naszła mnie taka myśl, że podzielę się z wami swoim sposobem na to, aby pracując z różnymi frameworkami, serwerami, środowiskami uruchomieniowymi, nadal mieć w natywnym systemie porządek. <!--more--> Przez to określenie mam na myśli stan, w którym po zakończonym projekcie nie muszę spędzić 4/5/6/123h w "Dodaj/usuń programy" aby usunąć wszystkie śmieci zainstalowane przez system (jeśli kiedykolwiek próbowałeś/próbowałaś odinstalować MS-SQL'a z systemu, tak kompletnie, to wiesz o czym mówię :wink: )
 
 #### Docker - po co komu wieloryb na komputerze?!
 
