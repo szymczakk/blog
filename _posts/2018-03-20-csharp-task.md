@@ -14,6 +14,7 @@ Wiesz co. Tak dzisiaj zauważyłem pewną ciekawostę :smile: i postanowiłem si
 Klepalem sobie kod, z użyciem dużej ilości Task'ów gdy nagle okazało się, że co chwila dostaję timeout'y.
 
 Timeout tu, timeout tam... Thready mi umierają... Kminiłem i kminiłem o co to mu tu może chodzić. 
+<!--more-->
 
 No i wykmniłem!
 

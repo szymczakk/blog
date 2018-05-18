@@ -11,6 +11,7 @@ categories: posts
 
 Ostatnio dość sporo słucham podcastów (ale o tym konkretnie napiszę osobny wpis) zwłaszcza w formie wywiadów z ludźmi sukcesu polskiego świata IT. Oni dość sporo opowiadają o sobie, o swoich biznesach, pomysłach na życie ale i też o tym jak do tego wszystkie doszli. I tak właśnie słuchając ich, oraz porównując ich sytuajce ze swoją (aktualną na rynku pracy i dookoła nas) zauważyłem, że teraz my wchodzący na rynek, ruszający z własnymi pomysłami itd mamy pod wieloma względami dużo łatwiej niż oni.
 <br>
+<!--more-->
 <br>
 Wynika to z bardzo wielu aspektów, przy czym jednym z nich jest łatwiejszy dostęp do **informacji**. *celowo unikam tu słowa wiedza, bo ona dopiero może z tej informacji wynikać, ale przy takim natłoku danych jak jest teraz, o tę wartościową wiedzę coraz ciężej*
 <br>
