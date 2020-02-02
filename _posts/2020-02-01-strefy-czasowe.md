@@ -10,7 +10,7 @@ categories: posts
 ### Hej!
 
 Ostatnio w pracy musiałem integrowac się z zewnętrznym API które w jednym z zapytań przesyłało mi daty...<br>
-Dwa dni walczyłem z rozwiązaniem problemy z tym związanego...
+Dwa dni walczyłem z rozwiązaniem problemu z tym związanego...
 <br>
 <!--more-->
 <br>
