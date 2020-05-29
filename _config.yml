@@ -30,7 +30,7 @@ enable_contact_us: false
 # Facebook Page integration
 # (for instant articles and other stuff)
 fb_page: false
-fb_page_id: 
+fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -44,7 +44,7 @@ facebook_comments_number: 10
 
 # Social icons
 github_username: szymczakk
-snapchat_username: wszamacedonska
+snapchat_username:
 bitbucket_username:
 stackoverflow_id: 4907665/rakaz
 twitter_username: szymczakk
@@ -55,7 +55,7 @@ linkedin_username: krzysztof-szymczak
 angellist_username: krzysztof-szymczak
 medium_id:
 bitcoin_url:
-paypal_url: 
+paypal_url:
 # my paypal url: paypal.me/szymczakk
 flattr_button:
 
