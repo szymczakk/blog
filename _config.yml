@@ -4,7 +4,7 @@ email:       krzysztof.piotr.szymczak@gmail.com
 author:      John Otander
 description: "This is my blog, and this is what I do."
 baseurl:     ""
-url:         "http://blog.rakaz.pl/"
+url:         "https://blog.szymczakk.pl/"
 date_format: "%b %-d, %Y"
 
 # Google services
