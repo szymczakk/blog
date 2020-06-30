@@ -26,12 +26,14 @@ Solution presented by Microsoft required to have O365 bought (which I do not wan
 After some googling, searching and asking around it found out that you have to change email adres in the claim configuration from
 
 `user.email`
-(that we do not have without O365 and exchange)
 <br>
+(that we do not have without O365 and exchange)
+<br><br>
 into
 <br>
 
 `user.userprincipal`
+<br>
 (which is 'email' in AAD)
 <br>
 <br>
